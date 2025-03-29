@@ -1,2 +1,1 @@
-# Product-Catalog
-Microservices-based Product Catalog System
+# Meal-Planner
